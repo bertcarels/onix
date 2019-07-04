@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.5.0
+Build-Jdk: 9
+Implementation-Title: onix
+Implementation-Version: 280619-170143
+Implementation-Vendor-Id: org.gatblau
+Built-By: gatblau.org
+Implementation-URL: https://onix.gatblau.org
+Implementation-Vendor: gatblau.org
+Source-URL: https://github.com/gatblau/onix
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: org.gatblau.onix.App
+Spring-Boot-Version: 2.1.4.RELEASE
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+
